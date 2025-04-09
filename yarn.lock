@@ -2917,8 +2917,10 @@ find-up@^5.0.0:
     locate-path "^6.0.0"
     path-exists "^4.0.0"
 
-"flexdi@file:.yalc/flexdi":
-  version "0.3.0"
+flexdi@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/flexdi/-/flexdi-0.4.0.tgz#086ff133b7c2dec952daa9f1deb8dee8edc16b8a"
+  integrity sha512-tjT4HgLkhCTNCEOkSW3jiy8GCOjgTJjqGGfrZ3NVyAiGBOJ8vC8kyJBUFoOO+ct2jxZMKjkHV2wPlWmr6t7EzQ==
 
 flow-enums-runtime@^0.0.6:
   version "0.0.6"
